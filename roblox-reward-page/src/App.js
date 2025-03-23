@@ -1,16 +1,3 @@
-// 以下是 CodeSandbox 部署指南
-
-/*
-部署步驟：
-1. 打開 https://codesandbox.io/
-2. 點選 "Create Sandbox"
-3. 選擇 "React" 模板
-4. 在 src/App.js 中替換所有內容為以下代碼
-5. 在 src/index.js 文件中已經配置好了 React 和 ReactDOM
-6. 在 public/index.html 中確保有一個 id 為 "root" 的 div
-7. 點擊 "Share" 按鈕獲取可分享的連結
-*/
-
 import React, { useState, useEffect } from 'react';
 import './styles.css'; // 將添加一些基本樣式
 
